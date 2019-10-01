@@ -2,7 +2,7 @@ public class PrimitiveTraining {
 
 
     public static void main(String[] args) {
-        
+    
     }
         
     // TODO 1 : Change the method 'integer' to return the expected result : int 42
