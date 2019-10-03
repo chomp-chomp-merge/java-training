@@ -94,7 +94,7 @@ public class StringTraining {
      */
     public static char lastChar(String string) {
 
-        return string.charAt(-1);
+        return string.charAt(string.length() - 1);
     }
 
     /**
